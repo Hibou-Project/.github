@@ -8,8 +8,7 @@
 
 <br/>
 
-[documentation](https://pst4hibou.github.io/documentation/)
-
+[documentation](https://hibou-project.github.io/documentation/)
 ## What is Hibou ? :student:
 
 <p style="text-align: justify;">
@@ -25,7 +24,7 @@ The Hibou Project is a drone recognition and localization system developed. It i
 
 ## Installation
 
-For installation instructions, please refer to the [Installation Guide](https://pst4hibou.github.io/documentation/guide/build-from-source/build-Hibou-Server.html).
+For installation instructions, please refer to the [Installation Guide](https://hibou-project.github.io/documentation/guide/build-from-source/build-Hibou-Server.html).
 
 ## Get in touch
 
